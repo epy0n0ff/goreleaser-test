@@ -7,4 +7,4 @@ builds:
     goarch:
       - amd64
     ldflags:
-      - -s -w -X "github.com/epy0n0ff/goreleaser-test/cmd.version=v0.0.2" -X "github.com/epy0n0ff/goreleaser-test/cmd.commit=abcd"
+      - -s -w -X "github.com/epy0n0ff/goreleaser-test/cmd.version=v0.0.3" -X "github.com/epy0n0ff/goreleaser-test/cmd.commit=abcd"
