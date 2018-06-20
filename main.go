@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/epy0n0ff/goreleaser-test/cmd"
+import "github.com/epy0n0ff/goreleaser-test/cmd/goreleaser-test/cmd"
 
 func main() {
 	cmd.Execute()
